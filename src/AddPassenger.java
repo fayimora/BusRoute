@@ -1,4 +1,6 @@
-
+/**
+ * @author .....fay
+ */
 import java.awt.*;
 import java.text.*;
 import java.awt.event.*;
